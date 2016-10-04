@@ -17,7 +17,7 @@
 </head>
 
 <body>
-<h1>CONTAINER INTEROGATOR</h1><p/>
+<h1>CONTAINER INTERROGATOR</h1><p/>
 <table width="100%" border="0">
 <tr>
 <td align="center" valign="center" style="width:200px"><img src="images/ose.jpeg" width="80px" border="1"></td>
