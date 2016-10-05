@@ -10,7 +10,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Example JSP for demo - Container Information Page</title>
+  <title>Example JSP - Container Information Page</title>
   
   <link rel="stylesheet" href="styles/containerview.css"/>
   <script src="scripts/containerview.js"></script>
