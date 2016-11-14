@@ -58,7 +58,7 @@
 </table>
 
 <div class="messages">
-    <b>Test took <%= testEnd - testStart %>ms to complete.</b>
+    <b><i>Test took <%= testEnd - testStart %>ms to complete.</i></b>
 </div>  
 </div>
 
